@@ -79,7 +79,7 @@ h3{
 @media (min-width:768px) {
     .navegacion a{
     margin-bottom: 0;
-}
+    }}
 .imagen{
     height: 450px;
     background-image:url(../imgs/pexels-luis-gomes-546819.jpg);
@@ -264,5 +264,4 @@ h3{
 }
 .footer {
     text-align: center;
-}
 }
